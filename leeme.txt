@@ -1,0 +1,1 @@
+En este proyecto se guardan todos los ficheros COLAB desarrollados para el TFM25 "Style Transfer para la reducción de ruido en imagen de Tomografía por Coherencia Óptica de retina" desarrollado por Erik Rodriguez bajo la dirección de Adrian Colomer
